@@ -35,6 +35,6 @@ body {
   color: white;
 }
 
-.box :hover{
+a:hover{
   background-color: #BFD7E3;
 }
