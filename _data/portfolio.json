@@ -8,7 +8,8 @@
         "technologies": [
             "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
         ]
-    }{
+    }]
+    [{
         "name": "Project Two",
         "link": "",
         "image": "http://via.placeholder.com/480x320",
@@ -17,6 +18,5 @@
         "technologies": [
             "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
         ]
-    }
-  ]
+    }]
 }
