@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
-url: url
-description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+name: Remix the Quarantine
+email: cameron.buckley@thedeltaschool.org
+url: https://www.thedeltaschool.org
+description: "Sick Beats and Vids from Cool Kids"
+author: "Quarantine Crew"
+title: "Remix the Quarantine"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: /remixing-tds
 
 # social
 github:
-  username: username
+  username: cameronbuckleyastate
 
 twitter:
   username: username
