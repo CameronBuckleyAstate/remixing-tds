@@ -34,3 +34,7 @@ body {
   background-color: #FF8C69;
   color: white;
 }
+
+.box :hover{
+  background-color: #BFD7E3;
+}
